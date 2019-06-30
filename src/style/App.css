@@ -1,0 +1,33 @@
+
+body{
+    background-color: darkgray;
+}
+
+.App{
+    margin-top: 40px;
+}
+
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+
+.handleTextInput{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.input{
+    display: flex;
+    justify-content: space-around;
+}
+
+.imageHolder{
+    display: flex;
+    justify-content: center;
+}
+
+

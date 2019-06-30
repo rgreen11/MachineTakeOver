@@ -1,0 +1,20 @@
+.nameHolder{
+    padding-top: 5px;
+}
+
+
+.name{
+    font-weight: bold;
+    color: white;
+}
+
+.btnLeft {
+    transition: 0.2s;
+    opacity: .5;
+    margin-right: 70%;
+}
+
+.btnRight {
+    transition: 0.2s;
+    margin-right: 0%;
+}
