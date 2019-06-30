@@ -28,7 +28,7 @@ componentDidMount(){
           const {exp} = this.state
           console.log(exp)
           return (
-            <div className={`border tempting-azure-gradient btn `} >
+            <div className={`border tempting-azure-gradient btn btnRight`} >
                 <h4>I have a {exp.operation}</h4>
                 <h4>problem {exp.expression}</h4>
                 <h4>my solution is </h4>
