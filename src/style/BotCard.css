@@ -1,20 +1,23 @@
-.nameHolder{
+.nameHolder {
     padding-top: 5px;
 }
 
-
-.name{
+.name {
     font-weight: bold;
     color: white;
 }
 
 .btnLeft {
+    display: flex;
     transition: 0.2s;
     opacity: .5;
-    margin-right: 70%;
+    margin-right: 10%;
 }
 
 .btnRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     transition: 0.2s;
     margin-right: 0%;
 }
