@@ -6,8 +6,8 @@ import Expression from './components/ExpressionCard';
 //------  CSS
 import 'bootstrap/dist/css/bootstrap.css';
 import 'mdbootstrap/css/mdb.min.css';
-import './style/App.css';
 import './style/BotCard.css';
+import './style/App.css';
 
 class App extends React.Component {
   constructor() {
